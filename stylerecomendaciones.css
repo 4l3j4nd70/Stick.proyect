@@ -4,7 +4,6 @@ body {
     font-family: 'Georgia', serif;
     margin: 0;
     padding: 20px;
-    cursor: url('https://cur.cursors-4u.net/cursors/cur-11/cur1032.png'), auto;
 }
 
 h1 {
@@ -130,7 +129,4 @@ section > div::-webkit-scrollbar-thumb {
 }
 section > div::-webkit-scrollbar-track {
     background: #222;
-}
-section > div::-webkit-scrollbar-thumb:hover {
-    background: #ff4444;
 }
