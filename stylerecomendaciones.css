@@ -131,3 +131,6 @@ section > div::-webkit-scrollbar-thumb {
 section > div::-webkit-scrollbar-track {
     background: #222;
 }
+section > div::-webkit-scrollbar-thumb:hover {
+    background: #ff4444;
+}
